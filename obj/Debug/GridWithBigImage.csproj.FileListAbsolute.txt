@@ -1,0 +1,6 @@
+C:\Users\Valens\Documents\Visual Studio 2010\GridWithBigImage\GridWithBigImage\bin\GridWithBigImage.dll
+C:\Users\Valens\Documents\Visual Studio 2010\GridWithBigImage\GridWithBigImage\bin\GridWithBigImage.pdb
+C:\Users\Valens\Documents\Visual Studio 2010\GridWithBigImage\GridWithBigImage\obj\Debug\GridWithBigImage.dll
+C:\Users\Valens\Documents\Visual Studio 2010\GridWithBigImage\GridWithBigImage\obj\Debug\GridWithBigImage.pdb
+C:\Users\Valens\Documents\Visual Studio 2010\GridWithBigImage\GridWithBigImage\obj\Debug\GridWithBigImage.dll.licenses
+C:\Users\Valens\Documents\Visual Studio 2010\GridWithBigImage\GridWithBigImage\obj\Debug\GridWithBigImage.csprojResolveAssemblyReference.cache
